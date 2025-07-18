@@ -234,7 +234,7 @@
 <g>
 	<text transform="matrix(1 0 0 1 16.7172 29.7173)" font-family="'RobotoSlab-Regular'" font-size="20">1</text>
 </g>
-<text transform="matrix(1 0 0 1 55.5473 180.6374)" font-family="'RobotoSlab-Thin'" font-size="160">1</text>
+<text id="number" transform="matrix(1 0 0 1 55.5473 180.6374)" font-family="'RobotoSlab-Thin'" font-size="160">1</text>
 <g>
 	<path fill="#26936C" d="M75.6,167.9c8.1-0.8,16-4.1,22.4-10c6.4-5.9,10.3-13.5,11.8-21.5c-8.1,0.8-16,4.1-22.4,10
 		C80.9,152.3,77,159.9,75.6,167.9z"/>
@@ -412,5 +412,6 @@
 </g>
 <g id="muted" opacity="0.6">
 	<rect fill="#fff" x="0" y="0" width="167.2" height="249.4"/>
+	<use xlink:href="#number" />
 </g>
 </svg>

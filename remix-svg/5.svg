@@ -95,7 +95,7 @@
 <g>
 	<text transform="matrix(-1 0 0 -1 151.6725 219.7435)" font-family="'RobotoSlab-Regular'" font-size="20">5</text>
 </g>
-<text transform="matrix(1 0 0 1 48.3574 196.6374)" font-family="'RobotoSlab-Thin'" font-size="140">5</text>
+<text id="number" transform="matrix(1 0 0 1 48.3574 196.6374)" font-family="'RobotoSlab-Thin'" font-size="140">5</text>
 <circle opacity="0.2" fill="#1A4E47" cx="32.9" cy="193.2" r="6.8"/>
 <circle opacity="0.2" fill="#1A4E47" cx="136.9" cy="24.2" r="4.2"/>
 <circle opacity="0.2" fill="#1A4E47" cx="139.4" cy="51.7" r="5.2"/>
@@ -142,5 +142,6 @@
 </g>
 <g id="muted" opacity="0.6">
 	<rect fill="#fff" x="0" y="0" width="167.2" height="249.4"/>
+	<use xlink:href="#number" />
 </g>
 </svg>

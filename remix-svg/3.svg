@@ -19,7 +19,7 @@
 	<circle fill="none" stroke="#484C57" stroke-miterlimit="10" stroke-dasharray="6.0161,6.0161" cx="115.1" cy="64.8" r="90"/>
 </g>
 <line fill="none" stroke="#BE5338" stroke-miterlimit="10" x1="-2.3" y1="166.9" x2="191" y2="-23.6"/>
-<text transform="matrix(1 0 0 1 47.0925 176.6375)" font-family="'RobotoSlab-Thin'" font-size="140">3</text>
+<text id="number" transform="matrix(1 0 0 1 47.0925 176.6375)" font-family="'RobotoSlab-Thin'" font-size="140">3</text>
 <g>
 	<polygon fill="#5C7F8E" points="33.5,214.3 34.7,203.3 36,214.3 	"/>
 	<polygon fill="#5C7F8E" points="36,214.3 34.7,225.3 33.5,214.3 	"/>
@@ -97,5 +97,6 @@
 </g>
 <g id="muted" opacity="0.6">
 	<rect fill="#fff" x="0" y="0" width="167.2" height="249.4"/>
+	<use xlink:href="#number" />
 </g>
 </svg>
