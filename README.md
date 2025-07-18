@@ -1,3 +1,10 @@
+> [!NOTE]
+> Remix of the Planning Poker cards by Redbooth for use with old smartphones and bad webcams in videoconferences.
+> * emphasized the numbers and
+> * muted the background images
+
+&#160;
+
 # Planning Poker cards by Redbooth
 
 ![](https://raw.githubusercontent.com/redbooth/Scrum-poker-cards/master/Images/redbooth%20cards%20-%20layout.jpg)
