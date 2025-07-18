@@ -139,4 +139,7 @@
 	<path fill="#FBDAE6" d="M87.6,182.9c0,0-1.2,1.9-0.8,3.8c0.5,1.9-6.6-2.2-6.6-2.2l4.7-3.2L87.6,182.9z"/>
 	<polygon fill="#FBDAE6" points="41.1,204.6 38.9,203.9 36.1,212.1 	"/>
 </g>
+<g id="muted" opacity="0.6">
+	<rect fill="#fff" x="0" y="0" width="167.2" height="249.4"/>
+</g>
 </svg>

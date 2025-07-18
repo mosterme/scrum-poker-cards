@@ -95,4 +95,7 @@
 <g>
 	<text transform="matrix(-1 0 0 -1 151.8012 219.7319)" font-family="'RobotoSlab-Regular'" font-size="20">3</text>
 </g>
+<g id="muted" opacity="0.6">
+	<rect fill="#fff" x="0" y="0" width="167.2" height="249.4"/>
+</g>
 </svg>

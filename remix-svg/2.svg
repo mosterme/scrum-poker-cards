@@ -176,4 +176,7 @@
 	<circle fill="#573B2E" cx="51.9" cy="172.5" r="0.6"/>
 	<circle fill="#573B2E" cx="32.3" cy="178.1" r="0.6"/>
 </g>
+<g id="muted" opacity="0.6">
+	<rect fill="#fff" x="0" y="0" width="167.2" height="249.4"/>
+</g>
 </svg>
