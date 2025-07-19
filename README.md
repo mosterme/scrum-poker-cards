@@ -1,5 +1,5 @@
 > [!NOTE]
-> Remix of the Planning Poker cards by Redbooth for use with old smartphones and bad webcams in videoconferences.
+> Remix of the Planning Poker cards for use with old smartphones and bad webcams in videoconferences.
 > * emphasized the numbers and
 > * muted the background images
 

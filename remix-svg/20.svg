@@ -219,7 +219,7 @@
 	</g>
 </g>
 <g>
-	<text id="number" transform="matrix(1 0 0 1 20.3374 169.2638)" font-family="'RobotoSlab-Thin'" font-size="115">20</text>
+	<text id="number" x="85" y="140" dominant-baseline="middle" text-anchor="middle" font-family="'RobotoSlab-Thin'" font-size="115">20</text>
 </g>
 <g>
 	<path fill="#EACAAE" d="M45.7,182.3c2-7.8-13.1-15.7-17-16.7c-6.3-1.7-12.7,2.1-14.4,8.3s2.1,12.7,8.3,14.4

@@ -35,7 +35,7 @@
 <g>
 	<text transform="matrix(-1 0 0 -1 151.9257 219.7416)" font-family="'RobotoSlab-Regular'" font-size="20">8</text>
 </g>
-<text id="number" transform="matrix(1 0 0 1 46.2383 166.6374)" font-family="'RobotoSlab-Thin'" font-size="140">8</text>
+<text id="number" x="85" y="130" dominant-baseline="middle" text-anchor="middle" font-family="'RobotoSlab-Thin'" font-size="140">8</text>
 <g>
 	<g>
 		
